@@ -1,7 +1,3 @@
-// rpn.c — Calculadora RPN por consola (stack)
-// Compilar: gcc rpn.c -o rpn -lm
-// Ejecutar:  ./rpn
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
